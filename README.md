@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Josiah Wilson
 
-<!--
-**Aperturesurvivor/Aperturesurvivor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur, builder, and engineering student focused on creating practical systems that solve real problems. I enjoy working at the intersection of software, automation, aerospace, and product development.
 
-Here are some ideas to get you started:
+Currently studying engineering while building apps, tools, and small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Projects
+
+# CostClaw
+
+**CostClaw Telemetry** is an OpenClaw plugin that provides visibility into the cost of running AI agents.
+
+It tracks token usage and estimates API spending across multiple model providers so users can monitor and optimize their automation systems.
+
+---
+
+## Overview
+
+CostClaw helps OpenClaw users understand exactly how much their agents are costing in real time. It provides simple telemetry, usage summaries, and recommendations to reduce unnecessary token consumption.
+
+The goal is to make large-scale AI automation financially sustainable.
+
+---
+
+## Features
+
+- Real-time token and cost estimates
+- Multi-model support (Claude, GPT, Grok, etc.)
+- Daily and weekly usage reports
+- Simple HTML usage summaries
+- Cost-reduction suggestions
+- Lightweight telemetry plugin
+- Fast installation
+
+## Technologies & Tools
+
+**Languages**
+- Swift / SwiftUI
+- Python
+- JavaScript
+- C / embedded systems
+
+**Tools**
+- Xcode
+- VS Code
+- Git
+- Ollama (local LLMs)
+- n8n automation
+- Raspberry Pi / microcontrollers
+
+**Other Interests**
+- Aerospace & rocketry
+- Automation systems
+- AI-assisted development
+- Hardware prototyping
+
+---
+
+## Current Focus
+
+- Building and shipping useful iOS applications
+- Developing AI automation systems
+- Designing tools for model rocketry
+- Learning advanced engineering concepts
